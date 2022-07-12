@@ -42,7 +42,7 @@ Skills
 Publications
 ======
 - [How does Color Constancy Affect Target Recognition and Instance Segmentation?](https://dl.acm.org/doi/10.1145/3474085.3475690)
-**Siyan Xue**, Shaobing Gao, Minjie Tan, Zhen He, and Liangtian He.\
+<br> **Siyan Xue**, Shaobing Gao, Minjie Tan, Zhen He, and Liangtian He.<br>
 ACM MM, 2021. 
 
   
