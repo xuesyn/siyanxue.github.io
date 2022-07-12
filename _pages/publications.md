@@ -7,6 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-<img  src="https://xuesyn.github.io/images/ACMMM'21.PNG" align='left' width=40%/> 
-
-<b> How does Color Constancy Affect Target Recognition and Instance Segmentation? </b> <br> Siyan Xue, Shaobing Gao, Minjie Tan, Zhen He, and Liangtian He. <br> ACM MM, 2021. <br> [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475690)
+![](https://xuesyn.github.io/images/ACMMM'21.PNG)<b> How does Color Constancy Affect Target Recognition and Instance Segmentation? </b> <br> Siyan Xue, Shaobing Gao, Minjie Tan, Zhen He, and Liangtian He. <br> ACM MM, 2021. <br> [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475690)
