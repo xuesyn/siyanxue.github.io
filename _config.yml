@@ -83,11 +83,11 @@ author:
   name             : "Siyan Xue"
   avatar           : "bio.jpg"
   bio              : "B.Eng. in Computer Science, Sichuan University"
-  location         : "Location"
+  location         : # "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?hl=en&user=eoQ1QVAAAAAJ"
-  email            : "xuesiyan2000 at gmail dot com"
+  email            : "xuesiyan2000 [at] gmail.com or xuesiyan2000 [at] outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Siyan-Xue"
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-9559-4547"
