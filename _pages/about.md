@@ -9,7 +9,7 @@ redirect_from:
 
 I am a student who have received Bachelor's degree from the School of Coputer Sience(2018-2022), Sichuan University, China.  
 
-My general research interests include medical imaging analysis and computer vision.
+My general research interests include machine learning, medical imaging analysis and computer vision.
 
 News
 ======
