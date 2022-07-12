@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Science, Sichuan University, 2022\
+GPA: 93.7/100; Ranking: 1/351
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2021 - Present: Research Assistant
+  * Tsinghua University
+  * Topic: Medical Image Analysis
+  * Supervisor:   Dr. Chengquan Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr 2021 - Aug 2021: Research Assistant
+  * Tsinghua University
+  * Topic: Time Series Forecasting, Data Management System
+  * Supervisor:  Dr. Xiangdong Huang, Dr. Zhongyi Pei, Prof. Jianmin Wang
+
+* Sep 2019 - Jun 2022: Undergraduate Student Research Training
+  * Sichuan University
+  * Topic: Computer Vision, Medical Image Processing
+  * Supervisor: Dr. Shaobing Gao, Dr. Wanzhong Song
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient languages: C/C++, MATLAB, Python, Golang
+* Deep learning frameworks: PyTorch, TensorFlow
+* Familiar Tools: LaTex, GIT
+* Familiar environment: Linux, Windows
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- [How does Color Constancy Affect Target Recognition and Instance Segmentation?](https://dl.acm.org/doi/10.1145/3474085.3475690)
+**Siyan Xue**, Shaobing Gao, Minjie Tan, Zhen He, and Liangtian He.\
+ACM MM, 2021. 
+
   
-Talks
+Honors and Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Outstanding Graduate (3%) - Department of Education of the Sichuan Province - 2021
+* Comprehensive Scholarship (2%) - Sichuan University - 2021
+* Contemporary Undergraduate Mathematical Contest in Modeling 1st Prize - China Society for Industrial and Applied Mathematics - 2020
+* China National Scholarship (highest honor scholarship in China) - Ministry of Education of the People’s Republic of China - 2020
+* Comprehensive Scholarship (2%) - Sichuan University - 2019
+
+
+
+
