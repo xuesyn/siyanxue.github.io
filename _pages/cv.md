@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Biomedical Engineering, Tsinghua University, Present
 * B.Eng. in Computer Science, Sichuan University, 2022\
 GPA: 93.7/100; Ranking: 1/351
 
 Experience
 ======
-* Sep 2021 - Present: Research Assistant
+* Sep 2021 - Sep 2022: Research Assistant
   * Tsinghua University
-  * Topic: Medical Image Analysis
-  * Supervisor:   Dr. Chengquan Li
+  * Topic: Health Information System, Medical Image Analysis
+  * Supervisor:   Dr. Chengquan Li, Prof. Jiahong Dong
 
 * Apr 2021 - Aug 2021: Research Assistant
   * Tsinghua University
