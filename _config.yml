@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siyan Xue"
 title_separator          : "-"
 name                     : &name "Siyan Xue"
-description              : &description "B.Eng at Sichuan University"
+description              : &description "Ph.D student at Tsinghua University"
 url                      : https://xuesyn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuesyn/siyanxue.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Siyan Xue"
   avatar           : "bio.jpg"
-  bio              : "B.Eng. in Computer Science, Sichuan University"
+  bio              : "Ph.D student in Biomedical Engineering, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?hl=en&user=eoQ1QVAAAAAJ"
-  email            : "xuesiyan2000 [at] gmail.com or xuesiyan2000 [at] outlook.com"
+  email            : "xuesiyan2000 [at] gmail.com or xue-sy22 [at] mails.tsinghua.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Siyan-Xue"
   uri              : "https://xuesyn.github.io/files/CV_seanXue_2022.pdf"
   bitbucket        :
